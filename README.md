@@ -4,7 +4,7 @@ This project was part of my master thesis and aimed to examine the debate surrou
 
 ## Paper
 
-The thesis can be accessed here: https://www.dropbox.com/s/d5s0rm5h3sfu1a0/StJacquesBruno_dna-copyright.pdf?dl=0
+The thesis can be accessed here: https://www.dropbox.com/s/octxc6qim113ywj/StJacquesBruno_dna-copyright.pdf?dl=0
 
 ## Abstract
 
