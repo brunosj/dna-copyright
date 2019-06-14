@@ -5,6 +5,7 @@ This project was part of my master thesis and aimed to examine the debate surrou
 ## Paper
 
 The thesis can be accessed here: https://www.dropbox.com/s/76ow359mteigdj1/20190430_St-JacquesB_dna-copyright_WEB.pdf?dl=0
+Poster available here: https://www.dropbox.com/s/rmuato383pcfwve/20190521_STJACQUES-BRUNO_MT-poster_bg.pdf?dl=0
 
 ## Abstract
 
