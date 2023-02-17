@@ -18,7 +18,7 @@ The European Parliament approved the most recent Copyright Directive in March 20
 
 **Bruno St-Jacques**
 
-bpstjacques@gmail.com
+mail@brunosj.com
 
 More information on the Discourse Network Analyzer software:
 https://github.com/leifeld/dna
