@@ -4,11 +4,11 @@ This project was part of my master thesis and aimed to examine the debate surrou
 
 ## Paper
 
-The thesis can be accessed here: https://www.dropbox.com/s/76ow359mteigdj1/20190430_St-JacquesB_dna-copyright_WEB.pdf?dl=0
+The thesis can be accessed [here](https://www.dropbox.com/s/gto0maut6vefxsq/20190430_St-JacquesB_WEB_FINAL.pdf?dl=0).
 
-Poster available here: https://www.dropbox.com/s/rmuato383pcfwve/20190521_STJACQUES-BRUNO_MT-poster_bg.pdf?dl=0
+Poster available [here](https://www.dropbox.com/s/burxy23afjsd2h4/STJACQUES-BRUNO_MT-poster_bg_web.pdf?dl=0).
 
-Slides of my presentation about the methodology at satRday Berlin 2019 here: https://www.dropbox.com/s/uhtvkm6ea311l55/satRday2019_St-Jacques_DNA.pdf?dl=0
+Slides of my presentation about the methodology at satRday Berlin 2019 [here](https://www.dropbox.com/s/uhtvkm6ea311l55/satRday2019_St-Jacques_DNA.pdf?dl=0).
 
 ## Abstract
 
